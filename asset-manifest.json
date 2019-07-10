@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/feline-friends/static/css/main.fd064601.chunk.css",
+    "main.js": "/feline-friends/static/js/main.bfebd477.chunk.js",
+    "main.js.map": "/feline-friends/static/js/main.bfebd477.chunk.js.map",
+    "runtime~main.js": "/feline-friends/static/js/runtime~main.fe03f2b4.js",
+    "runtime~main.js.map": "/feline-friends/static/js/runtime~main.fe03f2b4.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/feline-friends/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.1a543e43.chunk.js": "/feline-friends/static/js/2.1a543e43.chunk.js",
+    "static/js/2.1a543e43.chunk.js.map": "/feline-friends/static/js/2.1a543e43.chunk.js.map",
+    "index.html": "/feline-friends/index.html",
+    "precache-manifest.0230b8732df00b848c72d6a50247109c.js": "/feline-friends/precache-manifest.0230b8732df00b848c72d6a50247109c.js",
+    "service-worker.js": "/feline-friends/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/feline-friends/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.fd064601.chunk.css.map": "/feline-friends/static/css/main.fd064601.chunk.css.map"
+  }
+}
